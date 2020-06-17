@@ -1,15 +1,16 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram File convert Bot!
-You can convert any Telegram Document, using this bot! With custom thumbnail
+    START_TEXT = """ Hai !!.
+Welcome to Convert to Video Bot..
 
+Am a Simple bot for Covert Telegram Media file to Direct link/Streaming Video with Custom Thumbnail Support 😎
 
-    
+☛  Do one By One . Otherwise you will get Permenent Ban
+
     © Channel : @super_botz
     © Group   : @super_botz_support
     © Ankith_m: @Ankith_m
     
-    
+    ☛ /help for more details..
     """
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Use @FileconvertRobot 🥰"
