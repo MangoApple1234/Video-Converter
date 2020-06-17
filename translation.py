@@ -29,10 +29,10 @@ Am a Simple bot for Covert Telegram Media file to Direct link/Streaming Video wi
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
+Plan name: <a href='Free..join @kannada_new_moviesz_2020 '>{}</a>
 Expires on: {}"""
     HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
+👉 <a href="https://telegram.dog/TgFiletoVideo7bot">Convert To Streamable video any telegram file</a>
 --------
 Send /me to know current plan details
 
