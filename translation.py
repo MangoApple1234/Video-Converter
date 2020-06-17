@@ -3,11 +3,11 @@ class Translation(object):
 This is a Telegram File convert Bot!
 You can convert any Telegram Document, using this bot! With custom thumbnail
 
-source code : <a href='https://github.com/sahadz/convert-2-video'>Click here</a>
+source code : <a href='https://github.com/venky533/Convert-2-Video'>Click here</a>
     
-    © Channel : @DX_BotZ 
-    © Group   : @InfotelGroup
-    © Spechide: @Spechide
+    © Channel : @super_botz
+    © Group   : @super_botz_support
+    © Ankith_m: @Ankith_m
     
     
     """
@@ -15,7 +15,7 @@ source code : <a href='https://github.com/sahadz/convert-2-video'>Click here</a>
     UPGRADE_TEXT = "Use @FileconvertRobot 🥰"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
-    RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
+    RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (1.4G.B). Neverthless, trying to upload."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/fileConvertRobot"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
@@ -35,6 +35,6 @@ Expires on: {}"""
 --------
 Send /me to know current plan details
 
-Support Group : @Infotelgroup"""
+Support Group :@super_botz_support """
 
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
