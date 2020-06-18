@@ -24,7 +24,7 @@ Am a Simple bot for Covert Telegram Media file to Direct link/Streaming Video wi
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "Join @Dx_botz...have a nyc day!"
+    CUSTOM_CAPTION_UL_FILE = "Join @super_botz...have a nyc day!"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
