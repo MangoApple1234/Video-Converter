@@ -13,11 +13,11 @@ Am a Simple bot for Covert Telegram Media file to Direct link/Streaming Video wi
     ☛ /help for more details..
     """
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Use @FileconvertRobot 🥰"
+    UPGRADE_TEXT = "Use @Convertto_videobot 🥰"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (1.4G.B). Neverthless, trying to upload."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/fileConvertRobot"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "https://t.me/Convertto_videobot "
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
@@ -32,7 +32,7 @@ Telegram ID: <code>{}</code>
 Plan name: <a href='Free..join @kannada_new_moviesz_2020 '>{}</a>
 Expires on: {}"""
     HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/TgFiletoVideo7bot">Convert To Streamable video any telegram file</a>
+👉 <a href="https://telegram.dog/Convertto_videobot ">Convert To Streamable video any telegram file</a>
 --------
 Send /me to know current plan details
 
